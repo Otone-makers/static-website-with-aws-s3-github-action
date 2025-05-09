@@ -1,1 +1,2 @@
-# static-website-with-aws-s3-github-action
+# hosting a static-website-on-awsS3-with-github-action
+
